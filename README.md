@@ -1,18 +1,21 @@
 #### GCC
 ---------------------------
+```
 timeElapsed = 1006946
 3c8ec658 215b1de7 0063d1be 76d3f532 2deb3280 e7c667ec 5e0177b2 3d40ca6d
+```
 
 #### CompCert
 --------------------------
+```
 timeElapsed = 6664685
 3c8ec658 215b1de7 0063d1be 76d3f532 2deb3280 e7c667ec 5e0177b2 3d40ca6d
-
+```
 Done with:
 Turboboost disabled, hyperthreading disabled.
 
 ```
-✗ cat /proc/cpuinfo 
+✗ cat /proc/cpuinfo
 processor	: 0
 vendor_id	: GenuineIntel
 cpu family	: 6
